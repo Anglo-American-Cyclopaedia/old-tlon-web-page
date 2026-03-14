@@ -1,0 +1,316 @@
+[{
+    "id": "1",
+    "authors": "Joaquín F Sánchez, Juan P Ospina, John E Gonzalez, Jorge E Ortiz",
+    "name": "Sociability as a decision model for artificial agents",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "IEOM UK 2017",
+    "url": "/files/articles/1.pdf"
+  },
+  {
+    "id": "2",
+    "authors": "Joaquín F Sánchez. Jorge Eduardo Ortiz, Joseph A Gallego",
+    "name": "Propuesta de un lenguaje de dominio especifico para redes Ad-hoc",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "9 Congreso colombiano de Computación 2015",
+    "url": "/files/articles/2.pdf"
+  },
+  {
+    "id": "3",
+    "authors": "Henry Zárate Ceballos, Joaquin Sanchez, Juan Ospina, Jorge E. Ortiz",
+    "name": "Sistema de Telecomunicaciones Social-Inspirados Mediante Comunidades de Agentes",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "CICOM - 5° CONGRESO INTERNACIONAL DE COMPUTACIÓN MÉXICO COLOMBIA CICOM 2015",
+    "url": "/files/articles/3.pdf"
+  },
+  {
+    "id": "4",
+    "authors": "Henry Zárate Ceballos, John González Ortiz, Jorge E. Ortiz",
+    "name": "Towards the design of a social-inspired module for the decision making of nodes in an ad hoc network",
+    "type": "intellectual-production.types.magazine-article",
+    "panel": "panel-primary",
+    "newspaper": "Sistemas & Telemática",
+    "url": "/files/articles/4.pdf"
+  },
+  {
+    "id": "5",
+    "authors": "Henry Zárate Ceballos, Joaquin , Sanchez,Julian Latorre, Jorge E. Ortiz",
+    "name": "Model in an ad-hoc network for data acquisition in sensor networks",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "Colcom 2015 Colombian Conference on Communications and Computing",
+    "url": "/files/articles/5.pdf"
+  },
+  {
+    "id": "6",
+    "authors": "Jorge Ortiz",
+    "name": "Primer Jornada de Ciberseguridad JCUN 2018",
+    "type": "intellectual-production.types.event",
+    "panel": "panel-info",
+    "newspaper": "JCUN 2018",
+    "url": "/files/articles/6.pdf"
+  },
+  {
+    "id": "7",
+    "authors": "Henry Zárate Ceballos, Mauricio Tamayo, Jorge E. Ortiz",
+    "name": "Protocol Conversion Approach to Include Devices with Administration Restriction on a Framework of Reference of Management Network",
+    "type": "intellectual-production.types.magazine-article",
+    "panel": "panel-primary",
+    "newspaper": "WEA 2017: Applied Computer Sciences in Engineering",
+    "url": "/files/articles/7.pdf"
+  },
+  {
+    "id": "8",
+    "authors": "Joaquín F. Sánchez, Juan P. Ospina, John López, Jorge E. Ortiz",
+    "name": "Proposed ad hoc network to expand coverage of an IEEE 802.11 n network",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "In Communications and Computing (COLCOM), 2017 IEEE Colombian Conference on (pp. 1-5). IEEE.",
+    "url": "/files/articles/8.pdf"
+  },
+  {
+    "id": "9",
+    "authors": "Juan P. Ospina, Jorge E. Ortiz",
+    "name": "Estimation of a growth factor to achieve scalable ad hoc networks",
+    "type": "intellectual-production.types.magazine-article",
+    "panel": "panel-primary",
+    "newspaper": "Ingeniería y Universidad, 21(1), 49-70.",
+    "url": "/files/articles/9.pdf"
+  },
+  {
+    "id": "10",
+    "authors": "Hernan Jimenez, Juan P. Ospina, Jorge E. Ortiz",
+    "name": "A protocol development for wireless power transfer over ad hoc networks",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "Communications and Computing (COLCOM), 2016 IEEE Colombian Conference on (pp. 1-6). IEEE.",
+    "url": "/files/articles/10.pdf"
+  },
+  {
+    "id": "11",
+    "authors": "Juan P. Ospina, Jorge E. Ortiz",
+    "name": "Caracterización de un clúster y sus recursos en una red Ad Hoc a partir de la distribución geométrica truncada",
+    "type": "intellectual-production.types.magazine-article",
+    "panel": "panel-primary",
+    "newspaper": "Iteckne, 12(1), 68-75.",
+    "url": "/files/articles/11.pdf"
+  },
+  {
+    "id": "12",
+    "authors": "Juan P. Ospina, Henry Zárate, Jorge E. Ortiz",
+    "name": "Scalability in ad hoc networks under hierarchical architectures",
+    "type": "intellectual-production.types.magazine-article",
+    "panel": "panel-primary",
+    "newspaper": "Communications and Computing (COLCOM), 2015 IEEE Colombian Conference on (pp. 1-6). IEEE.",
+    "url": "/files/articles/12.pdf"
+  },
+  {
+    "id": "13",
+    "authors": "Julian Latorre",
+    "name": "MODELO DE ADQUISICIÓN DE DATOS PARA EL SOPORTE A LA TOMA DE DECISIONES EN CADENAS DE SUMINISTRO MEDIANTE REDES AD- HOC",
+    "type": "intellectual-production.types.undergraduate-thesis",
+    "panel": "panel-success",
+    "newspaper": "",
+    "url": "/files/articles/13.pdf"
+  },
+  {
+    "id": "14",
+    "authors": "Jorge Parra",
+    "name": "Contents management algorthm for Ad Hoc networks bio-inspired in the quorum sensing utilized by gram negative bacteria",
+    "type": "intellectual-production.types.masters-thesis",
+    "panel": "panel-success",
+    "newspaper": "",
+    "url": "/files/articles/14.pdf"
+  },
+  {
+    "id": "15",
+    "authors": "Giovanni Bracho",
+    "name": "Reconocimientos Automático de Condiciones anómalas en redes de datos usando información de los dispositivos administrativos",
+    "type": "intellectual-production.types.masters-thesis",
+    "panel": "panel-success",
+    "newspaper": "",
+    "url": "/files/articles/15.pdf"
+  },
+  {
+    "id": "16",
+    "authors": "Auris Parody",
+    "name": "Desarrollo de un prototipo de conteo de personas en tiempo real, en entornos indoor, utilizando redes de sensores inalámbricos",
+    "type": "intellectual-production.types.masters-thesis",
+    "newspaper": "",
+    "panel": "panel-success",
+    "url": "/files/articles/16.pdf"
+  },
+  {
+    "id": "17",
+    "authors": "Henry Zarate, Oscar Agudelo",
+    "name": "Curso en redes de Sensores sobre sistemas embebidos, orientado a agrónica",
+    "type": "intellectual-production.types.short-course",
+    "panel": "panel-info",
+    "newspaper": "Sennova - SENA Valledupar",
+    "url": "/files/articles/17.pdf"
+  },
+  {
+    "id": "18",
+    "authors": "Henry Zarate, Oscar Agudelo",
+    "name": "Curso en redes de Sensores sobre redes de sensores",
+    "type": "intellectual-production.types.short-course",
+    "panel": "panel-info",
+    "newspaper": "Sennova - SENA Valledupar",
+    "url": "/files/articles/18.pdf"
+  },
+  {
+    "id": "19",
+    "authors": "Jorge Ortiz",
+    "name": "Hettmanns Software",
+    "type": "intellectual-production.types.software",
+    "panel": "panel-default",
+    "newspaper": "",
+    "url": "/files/articles/19.pdf"
+  },
+  {
+    "id": "20",
+    "authors": "Jorge Parra, Jorge Ortiz",
+    "name": "Bacteria Agent Colony inside an Ad-Hoc Network",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "10 Congreso Colombiano de Computación 2015",
+    "url": "/files/articles/20.pdf"
+  },
+  {
+    "id": "21",
+    "authors": "Jhon López, Joaquin Sanchez, Jorge Ortiz",
+    "name": "DISEÑO SOCIO-INSPIRADO DE LA MÁQUINA VIRTUAL DISTRIBUIDA(ÖRBIS VIRTÜALIS MAQÜINUS ÖVM) PARA LA RED AD-HOC TLÖN",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "CICOM 2015 El Quinto Congreso Internacional de Computación México-Colombia",
+    "url": "/files/articles/21.pdf"
+  },
+  {
+    "id": "22",
+    "authors": "Oscar Agudelo, Henry Zárate",
+    "name": "Internet de las Cosas y los sistemas de producción agropecuarios: oportunidades para la academia y la industria.",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "SIMPOSIO DE INGENIERÍAS Y BIOTECNOLOGÍA: TECNOLOGÍAS APLICADAS AL SECTOR AGROPECUARIO",
+    "url": "/files/articles/22.pdf"
+  },
+  {
+    "id": "23",
+    "authors": "Giuseppe Roa, Joaquin Sanchez, Jorge Ortiz",
+    "name": "SEGURIDAD Y REGULACIÓN EN SERVICIOS TIPO MÁQUINA-MÁQUINA (ECALL, EHEALTH)",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "CICOM 2015 El Quinto Congreso Internacional de Computación México-Colombia y XV Jornada Académica en Inteligencia Artificial",
+    "url": "/files/articles/23.pdf"
+  },
+  {
+    "id": "24",
+    "authors": "Henry Zárate Ceballos, Jorge Ortiz",
+    "name": "Simulación en redes Inalámbricas en Ns-2",
+    "type": "intellectual-production.types.magazine-article",
+    "panel": "panel-primary",
+    "newspaper": "Revista Respuestas ISSN: 0122-820X, 2015 vol:20 fasc: 1 págs: 38 - 50",
+    "url": "/files/articles/24.pdf"
+  },
+  {
+    "id": "25",
+    "authors": "Henry Zarate Mauricio Tamayo Jorge Ortiz",
+    "name": "Protocol Conversion Approach to Include Devices with Administration Restriction on a Framework of Reference of Management Network",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "WEA 2017: Workshop on Engineering Applications 2017",
+    "url": "/files/articles/25.pdf"
+  },
+  {
+    "id": "26",
+    "authors": "Henry Zarate Mauricio Tamayo Jorge Ortiz",
+    "name": "SNMP converter and the forward data collection as management method in dynamic distributed networks",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "5th Workshop on Engineering Applications, WEA 2018",
+    "url": "/files/articles/26.pdf"
+  },
+  {
+    "id": "27",
+    "authors": "German Dario Alvarez",
+    "name": "Construcción un sub-sistema de software que permita generar movilidad de agentes artificiales de acuerdo con el rol que ellos desempe ̃nan sobre el Sistema TLON ̈ cuyos recursos se comparten a través de una red Ad hoc.",
+    "type": "intellectual-production.types.masters-thesis",
+    "panel": "panel-success",
+    "newspaper": "",
+    "url": "/files/articles/27.pdf"
+  },
+  {
+    "id": "28",
+    "authors": "Mauricio Tamayo",
+    "name": "Ponencia Paper ID47 Protocol Conversion Approach to Include Devices with Administration Restriction on a Framework of Reference of Management Network",
+    "type": "intellectual-production.types.paper",
+    "panel": "panel-info",
+    "newspaper": "Congreso internacional WEA 2017: Workshop on Engineering Applications 2017",
+    "url": "/files/articles/28.pdf"
+  },
+  {
+    "id": "29",
+    "authors": "Mauricio Tamayo",
+    "name": "Construcción de un protocolo de comunicaciones para el sistema TLÖN que permita la inclusión y monitoreo de dispositivos con limitaciones de gestión en un marco de referencia de administración de red",
+    "type": "intellectual-production.types.masters-thesis",
+    "panel": "panel-success",
+    "newspaper": "",
+    "url": "/files/articles/29.pdf"
+  },
+  {
+    "id": "30",
+    "authors": "Diego Vega, Juan P. Ospina, Julian Latorre",
+    "name": "An adaptive trust model for achieving emergent cooperation in  ad hoc networks",
+    "type": "intellectual-production.types.book-chapter",
+    "panel": "panel-info",
+    "newspaper": "Current Trends in Semantic Web Technologies: Theory and Practice.",
+    "url": "/files/articles/30.pdf"
+  },
+  {
+    "id": "31",
+    "authors": "Lina Alfonso, Juan P. Ospina, Jorge Ortiz",
+    "name": "A Register Module for Agents Communities Through Robustness Property in Ad Hoc Networks",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "IV Congreso Internacional de Innovación y Tendencias en Ingeniería",
+    "url": "/files/articles/31.pdf"
+  },
+  {
+    "id": "32",
+    "authors": "John Edwar González, Jorge Ortiz, Henry Zárate",
+    "name": "Toma de Decisiones en Nodos del Sistema Distribuido TLÖN",
+    "type": "intellectual-production.types.magazine-article",
+    "panel": "panel-primary",
+    "newspaper": "Revista Ingeniería y Región",
+    "url": "/files/articles/32.pdf"
+  },
+  {
+    "id": "33",
+    "authors": "Semillero Uqbar",
+    "name": "Semillero Uqbar",
+    "type": "intellectual-production.types.pedagogic-strategy",
+    "panel": "panel-default",
+    "newspaper": "Grupo de Estudio",
+    "url": ""
+  },
+  {
+    "id": "34",
+    "authors": "Henry Zárate Ceballos",
+    "name": "Diseño de un Sub-Sistema de Cómputo Distribuido que permita implementar virtualización inalámbrica para gestionar recursos (Procesamiento, memoria, almacenamiento y dispositivos E/S) distribuidos en una Red Ad Hoc, mediante el modelo de pseudo Estado",
+    "type": "intellectual-production.types.phd-thesis",
+    "panel": "panel-success",
+    "newspaper": "",
+    "url": "/files/articles/34.pdf"
+  },
+  {
+    "id": "35",
+    "authors": "Giuseppe Roa, Joaquin Sanchez, Juan Pablo Ospina, Jorge Ortiz",
+    "name": "An address allocation protocol for ad hoc networks through pollen dispersion algorithms",
+    "type": "intellectual-production.types.scientific-article",
+    "panel": "panel-primary",
+    "newspaper": "Colcaci 2019 2nd IEEE Colombian Conference on applications in computational intelligence",
+    "url": "/files/articles/35.pdf"
+  }
+]

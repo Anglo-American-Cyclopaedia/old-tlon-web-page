@@ -1,0 +1,96 @@
+{
+  "home.members.coordinator": [{
+    "name": "Jorge Eduardo Ortiz Triviño",
+    "program": "home.members.phd-systems-engineering"
+  }],
+  "home.members.phd-students": [{
+      "name": "Henry Zarate Ceballos",
+      "program": "home.members.phd-students-systems-computing"
+    },
+    {
+      "name": "Juan Pablo Ospina Lopez",
+      "program": "home.members.phd-students-systems-computing"
+    },
+    {
+      "name": "Oscar Agudelo Rojas",
+      "program": "home.members.phd-students-systems-computing"
+    }
+  ],
+  "home.members.master-students": [
+    {
+      "name": "Mateo Barragan",
+      "program": "home.members.master-students-systems-engineering"
+    },
+    {
+      "name": "Edward Camilo Carrillo Estupiñan",
+      "program": "home.members.master-students-systems-engineering"
+    },
+    {
+      "name": "Jhon Alexander Lopez Velasco",
+      "program": "home.members.master-students-telecomunications"
+    },
+    {
+      "name": "Manuel Molano Saavedra",
+      "program": "home.members.master-students-systems-engineering"
+    },
+    {
+      "name": "Oscar Rueda Dimate",
+      "program": "home.members.master-students-telecomunications"
+    },
+    {
+      "name": "Hernan Jiménez Jiménez",
+      "program": "home.members.master-students-telecomunications"
+    },
+    {
+      "name": "Santiago José Molina",
+      "program": "home.members.master-students-telecomunications"
+    },
+    {
+      "name": "Juan Sebastián Triana Correa",
+      "program": "home.members.master-students-telecomunications"
+    },
+    {
+      "name": "Diego Alexis Romero Rincón",
+      "program": "home.members.master-students-electronics-engineering"
+    },
+    {
+      "name": "Angela Consuelo Checa Hurtado",
+      "program": "home.members.master-students-telecomunications"
+    },
+    {
+      "name": "Juan David Ramirez Guerrero",
+      "program": "home.members.master-students-telecomunications"
+    },
+    {
+      "name": "Andres Felipe de Orcajo",
+      "program": "home.members.master-students-systems-engineering"
+    },
+    {
+      "name": "Alvaro Tovar",
+      "program": "home.members.master-students-telecomunications"
+    },
+    {
+      "name": "Diego Alejandro Vega Vega",
+      "program": "home.members.master-students-telecomunications"
+    },
+    {
+      "name": "Antonio Suarez Fortich",
+      "program": "home.members.master-students-systems-engineering"
+    }
+  ],
+  "home.members.bacherlor-students": [
+    {
+      "name": "Cristian Camilo Vargas Morales",
+      "program": "home.members.bacherlor-students-systems-engineering"
+    },
+    {
+      "name": "Alejandro Alejo",
+      "program": "home.members.bacherlor-students-systems-engineering"
+    }
+  ],
+  "home.members.research-asociates": [{
+      "name": "Rodrigo Ivan Espinel Villalobos",
+      "program": "home.members.research-asociates-informatic-security"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "courses": [{
+      "id": 1,
+      "short_name": "Sistemas Embebidos - Valledupar",
+      "name": "ENTRENAMIENTO EN SISTEMAS EMBEBIDOS - MÓDULO BÁSICO",
+      "description": "Entrenamiento teórico-práctico en Sistemas Embebidos aplicado al uso de dispositivos Raspberry Pi y Beaglebone.",
+      "date": "9-10 de Junio de 2016",
+      "location": "SENA Valledupar",
+      "instructors": ["Oscar Agudelo Rojas", "Henry Zárate"],
+      "presentation_url": "/files/Curso_Sistemas_Embebidos_Valledupar_Junio_2016.pdf",
+      "presentation_name": "Curso_Sistemas_Embebidos_Valledupar_Junio_2016.pdf"
+    },
+    {
+      "id": 2,
+      "short_name": "Redes de Sensores - Valledupar",
+      "name": "CURSO DE REDES DE SENSORES",
+      "description": "Entrenamiento teórico–práctico en redes de sensores aplicado en dispositivos Raspberry Pi y Beaglebone, prácticas orientadas a redes ad hoc.",
+      "date": "8 de Noviembre de 2016",
+      "location": "SENA Valledupar",
+      "instructors": ["Oscar Agudelo Rojas", "Henry Zárate", "Joseph Esteban Ramirez"],
+      "presentation_url": "/files/Curso_Redes_de_Sensores_Noviembre_2016.pdf",
+      "presentation_name": "Curso_Redes_de_Sensores_Noviembre_2016.pdf"
+    },
+    {
+      "id": 3,
+      "short_name": "Curso de Sistemas Embebidos",
+      "name": "CURSO DE SISTEMAS EMBEBIDOS",
+      "description": "Entrenamiento teórico–práctico en sistemas embebidos aplicado en dispositivos Raspberry Pi y Beaglebone, instalación de sistemas operativos para sistemas embebidos, funcionamiento, programación, administración y aplicaciones con sensores, prácticas orientadas a redes ad hoc.",
+      "date": "3-26 de Octubre de 2016",
+      "location": "Universidad Nacional de Colombia - Sede Bogotá",
+      "instructors": ["Oscar Agudelo Rojas", "Henry Zárate"],
+      "presentation_url": "/files/Curso_Sistemas_Embebidos_Unal.pdf",
+      "presentation_name": "Curso_Sistemas_Embebidos_Unal.pdf"
+    }
+  ]
+}

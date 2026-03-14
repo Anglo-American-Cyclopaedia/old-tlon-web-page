@@ -1,0 +1,232 @@
+$bg-white: #fff
+$timeline-max-width: 767px
+
+a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus
+  background-color: #94b43b
+  color: #ffffff
+
+a
+    &.no-style
+        color: $bg-white
+
+        &:hover
+            text-decoration: none
+
+        &:active
+            text-decoration: none
+
+.text-italic
+    font-style: italic
+
+.text-strong
+    font-weight: bold
+
+.text-justify
+    text-align: justify
+
+.bg-clear
+    background: $bg-white
+    padding-bottom: 30px
+    padding-top: 15px
+
+.text-lg
+    font-size: 16px
+
+.cursor-link
+    cursor: pointer
+
+.border-flat
+    border-radius: 0
+
+.panel
+    &.border-flat
+        border-radius: 0
+
+    .panel-heading
+        .header-no-style
+            border-bottom: 0
+            margin-top: 5px
+
+.btn-flat
+    border-radius: 0
+
+.bg-green
+    background-color: #50992E !important
+    color: #ffffff !important
+    border: 1px solid #ffffff
+
+// Timeline Plugin CSS
+main
+    &.detalle
+        ul
+            &.timeline
+                li
+                    list-style: none
+                    border-bottom: none
+
+.timeline
+    padding: 20px 0 20px
+    position: relative
+
+    &:before
+        top: 0
+        bottom: 0
+        position: absolute
+        content: " "
+        width: 3px
+        background-color: #eeeeee
+        left: 50%
+        margin-left: -1.5px
+
+    >li
+        margin-bottom: 20px
+        position: relative
+
+        &:before
+            content: " "
+            display: table
+            content: " "
+            display: table
+
+        &:after
+            content: " "
+            display: table
+            clear: both
+            content: " "
+            display: table
+            clear: both
+
+        >.timeline-panel
+            width: 46%
+            float: left
+            border: 1px solid #d4d4d4
+            border-radius: 2px
+            padding: 20px
+            position: relative
+            -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175)
+            box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175)
+
+            &:before
+                position: absolute
+                top: 26px
+                right: -15px
+                display: inline-block
+                border-top: 15px solid transparent
+                border-left: 15px solid #ccc
+                border-right: 0 solid #ccc
+                border-bottom: 15px solid transparent
+                content: " "
+
+            &:after
+                position: absolute
+                top: 27px
+                right: -14px
+                display: inline-block
+                border-top: 14px solid transparent
+                border-left: 14px solid #fff
+                border-right: 0 solid #fff
+                border-bottom: 14px solid transparent
+                content: " "
+
+        >.timeline-badge
+            color: #fff
+            width: 50px
+            height: 50px
+            line-height: 50px
+            font-size: 1.4em
+            text-align: center
+            position: absolute
+            top: 16px
+            left: 50%
+            margin-left: -25px
+            background-color: #999999
+            z-index: 100
+            border-top-right-radius: 50%
+            border-top-left-radius: 50%
+            border-bottom-right-radius: 50%
+            border-bottom-left-radius: 50%
+
+    >li.timeline-inverted
+
+        >.timeline-panel
+            float: right
+
+            &:before
+                border-left-width: 0
+                border-right-width: 15px
+                left: -15px
+                right: auto
+
+            &:after
+                border-left-width: 0
+                border-right-width: 14px
+                left: -14px
+                right: auto
+
+.timeline-badge.primary
+    background-color: #2e6da4 !important
+
+.timeline-badge.success
+    background-color: #3f903f !important
+
+.timeline-badge.warning
+    background-color: #f0ad4e !important
+
+.timeline-badge.danger
+    background-color: #d9534f !important
+
+.timeline-badge.info
+    background-color: #5bc0de !important
+
+.timeline-title
+    margin-top: 0
+    color: inherit
+
+.timeline-body
+    >p
+        margin-bottom: 0
+    +
+        p
+            margin-top: 5px
+    >ul
+        margin-bottom: 0
+
+.nav-unal>li.active>a, .nav-unal>li.active>a:hover, .nav-unal>li.active>a:focus, .nav-unal>li.active>a:visited
+  background-color: #94b43b
+
+.btn-unal
+  color: #ffffff
+  background-color: #94b43b
+
+img.img-margin-auto
+  margin: auto
+
+@media only screen and (max-width : 320px)
+    ul.timeline
+
+        &:before
+            left: 40px
+
+        >li
+            >.timeline-panel
+                width: calc(100% - 90px)
+                width: -moz-calc(100% - 90px)
+                width: -webkit-calc(100% - 90px)
+                float: right
+
+                &:before
+                    border-left-width: 0
+                    border-right-width: 15px
+                    left: -15px
+                    right: auto
+
+                &:after
+                    border-left-width: 0
+                    border-right-width: 14px
+                    left: -14px
+                    right: auto
+
+                >.timeline-badge
+                    left: 15px
+                    margin-left: 0
+                    top: 16px
